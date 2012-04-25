@@ -29,4 +29,4 @@ Kod 'run' komande možete da birate da li hoćete ['android', 'chrome', 'ios', '
 
 Kada terate android moraćete da dodate sdk path (ili da pustite da forge uradi download istog za vas automatski). Parametar je '--android.sdk'.
 
-
+Više o Trigger.io na http://docs.trigger.io/en/v1.2/index.html
