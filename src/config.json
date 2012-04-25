@@ -1,0 +1,25 @@
+{
+	"uuid": "",
+	"platform_version": "v1.2",
+	"name": "BeerCodeShaft",
+	"author": "BeerCode",
+	"version": "0.1",
+	"description": "Tools around",
+	"permissions": ["tabs", "http://www.google.com/*"],
+	"trigger": "document_end",
+	"background_files": [],
+	"activations": [
+		{
+			"patterns": ["http://*/*"],
+			"styles": [],
+			"scripts": []
+		}
+	],
+	"logging": {
+			"level": "INFO"
+	},
+	"browser_action": {
+    "default_popup": "index.html"
+	}
+}
+ 
